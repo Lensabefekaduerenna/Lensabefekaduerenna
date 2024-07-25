@@ -10,7 +10,7 @@
   - [Voice Wake Words deployed on Arduino Nano 33 BLE](https://github.com/Lensabefekaduerenna/VWW_Deployment)
 - <b>Cyber security<b>
   - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
-  - [Incident Response](project 6)
+  - [Incident Response](https://github.com/Lensabefekaduerenna/Incident_Response)
   - [Risk analysis)](project 7)
   - [Azure Entra ID roles and permissions](Project 8)
 - <b>Python</b>
