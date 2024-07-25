@@ -4,7 +4,7 @@
 
 - <b>Machine Learning</b>
   - [Anomaly Detection with Autoencoders](https://github.com/Lensabefekaduerenna/Anomaly-Detection-Autoencoders)
-  - [City of Bogota Air Quality data analysis](project 2)
+  - [City of Bogota Air Quality data analysis](https://github.com/Lensabefekaduerenna/City-Air-Quality)
 - <b>Tiny Machine Learning - Embedded Devices</b>
   - [Person Detection & Key word spotting deployed on Arduino Nano 33 BLE](project 3)
   - [Voice Wake Words deployed on Arduino Nano 33 BLE](project 4)
