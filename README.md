@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lensa! A Machine Learning Engineer, a Cybersecurity Analyst, AI SaaS Enterpernour and AI for Good advocate :) 
+<h1>Hi, I'm Lensa! A Machine Learning Engineer, a Cybersecurity Analyst, AI SaaS Entrepreneur and AI for Good advocate :) 
 
 <h2>👨‍💻 Projects:</h2>
 
