@@ -16,7 +16,7 @@
 - <b>Python</b>
   - [Update a file through a python algorithm](https://github.com/Lensabefekaduerenna/Python-algorithm)
 - <b>Linux</b>
-  - [File Permissions in Linux](Project 10)
+  - [File Permissions in Linux](https://github.com/Lensabefekaduerenna/Linux_Permissions)
 
 <h2> 🤳 Connect with me:</h2>
 
