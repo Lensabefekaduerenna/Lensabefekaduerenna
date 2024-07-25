@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Anomaly Detection with Autoencoders]( project l)
+  - [Anomaly Detection with Autoencoders](https://github.com/Lensabefekaduerenna/Anomaly-Detection-Autoencoders)
   - [City of Bogota Air Quality data analysis](project 2)
 - <b>Tiny Machine Learning - Embedded Devices</b>
   - [Person Detection & Key word spotting deployed on Arduino Nano 33 BLE](project 3)
