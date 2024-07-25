@@ -7,7 +7,7 @@
   - [City of Bogota Air Quality ML analysis](https://github.com/Lensabefekaduerenna/City-Air-Quality)
 - <b>Tiny Machine Learning - Embedded Devices</b>
   - [Person Detection & Key word spotting deployed on Arduino Nano 33 BLE](https://github.com/Lensabefekaduerenna/Person_detection-KWS)
-  - [Voice Wake Words deployed on Arduino Nano 33 BLE](project 4)
+  - [Voice Wake Words deployed on Arduino Nano 33 BLE](https://github.com/Lensabefekaduerenna/VWW_Deployment)
 - <b>Cyber security<b>
   - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
   - [Incident Response](project 6)
