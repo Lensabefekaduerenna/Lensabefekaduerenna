@@ -11,7 +11,7 @@
 - <b>Cyber security<b>
   - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
   - [Incident Response](https://github.com/Lensabefekaduerenna/Incident_Response)
-  - [Risk analysis)](project 7)
+  - [Risk analysis)](https://github.com/Lensabefekaduerenna/Risk_Mgmt)
   - [Azure Entra ID roles and permissions](Project 8)
 - <b>Python</b>
   - [Update a file through a python algorithm](https://github.com/Lensabefekaduerenna/Python-algorithm)
