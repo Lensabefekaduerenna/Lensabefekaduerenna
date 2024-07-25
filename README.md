@@ -9,7 +9,7 @@
   - [Person Detection & Key word spotting deployed on Arduino Nano 33 BLE](project 3)
   - [Voice Wake Words deployed on Arduino Nano 33 BLE](project 4)
 - <b>Cyber security<b>
-  - [Azure Cloud - SOC](Project 5)
+  - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
   - [Incident Response](project 6)
   - [Risk analysis)](project 7)
   - [Azure Entra ID roles and permissions](Project 8)
