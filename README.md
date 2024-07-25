@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Anomaly Detection with Autoencoders](https://github.com/Lensabefekaduerenna/Anomaly-Detection-Autoencoders)
+  - [Anomaly Detection using Autoencoders](https://github.com/Lensabefekaduerenna/Anomaly-Detection-Autoencoders)
   - [City of Bogota Air Quality ML analysis](https://github.com/Lensabefekaduerenna/City-Air-Quality)
 - <b>Tiny Machine Learning - Embedded Devices</b>
   - [Person Detection & Key word spotting deployed on Arduino Nano 33 BLE](https://github.com/Lensabefekaduerenna/Person_detection-KWS)
@@ -11,7 +11,7 @@
 - <b>Cyber security<b>
   - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
   - [Incident Response](https://github.com/Lensabefekaduerenna/Incident_Response)
-  - [Risk Analysis)](https://github.com/Lensabefekaduerenna/Risk_Mgmt)
+  - [Risk Analysis](https://github.com/Lensabefekaduerenna/Risk_Mgmt)
   - [Azure Entra ID roles and permissions](https://github.com/Lensabefekaduerenna/Azure_Entra_ID)
 - <b>Python</b>
   - [Update a file through a python algorithm](https://github.com/Lensabefekaduerenna/Python-algorithm)
