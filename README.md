@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lensa! A passinate Machine Learning Engineer, a Cybersecurity Analyst, an AI SaaS Enterpernour and an AI for Good advocate :) 
+<h1>Hi, I'm Lensa! A Machine Learning Engineer, a Cybersecurity Analyst, AI SaaS Enterpernour and AI for Good advocate :) 
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -14,7 +14,7 @@
   - [Risk analysis)](project 7)
   - [Azure Entra ID roles and permissions](Project 8)
 - <b>Python</b>
-  - [Update a file through a python algorithm](project 9)
+  - [Update a file through a python algorithm](https://github.com/Lensabefekaduerenna/Python-algorithm)
 - <b>Linux</b>
   - [File Permissions in Linux](Project 10)
 
