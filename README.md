@@ -11,7 +11,7 @@
 - <b>Cyber security<b>
   - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
   - [Incident Response](https://github.com/Lensabefekaduerenna/Incident_Response)
-  - [Controls Assessment](https://github.com/Lensabefekaduerenna/Controls_assessment)
+  - [Security Controls Assessment](https://github.com/Lensabefekaduerenna/Controls_assessment)
   - [Microsoft Entra ID roles and permissions](https://github.com/Lensabefekaduerenna/Azure_Entra_ID)
 - <b>Python</b>
   - [Update a file through a python algorithm](https://github.com/Lensabefekaduerenna/Python-algorithm)
