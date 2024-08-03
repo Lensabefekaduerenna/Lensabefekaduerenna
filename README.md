@@ -19,10 +19,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/lensa-erenna-158b2831b/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
