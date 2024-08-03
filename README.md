@@ -6,7 +6,7 @@
   - [Anomaly Detection using Autoencoders](https://github.com/Lensabefekaduerenna/Anomaly-Detection-Autoencoders)
   - [City of Bogota Air Quality ML analysis](https://github.com/Lensabefekaduerenna/City-Air-Quality)
 - <b>Tiny Machine Learning - Embedded Devices</b>
-  - [Key word spotting - Arduino Nano 33 BLE](https://github.com/Lensabefekaduerenna/KWS)
+  - [Key word spotting deployment - Arduino Nano 33 BLE](https://github.com/Lensabefekaduerenna/KWS)
 - <b>Cyber security<b>
   - [Azure Cloud - SOC](https://github.com/Lensabefekaduerenna/Azure-cloud-SOC)
   - [Incident Response](https://github.com/Lensabefekaduerenna/Incident_Response)
